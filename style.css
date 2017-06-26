@@ -1,0 +1,105 @@
+a:link    {color:#B24900;  text-decoration:none}
+a:visited {color:#B24900; text-decoration:none}
+a:hover   {color:#3a9b00; text-decoration:underline}  
+
+.navbar{
+  background-color: white !important;
+}
+
+.navbar-brand{
+  color:white !important;
+}
+
+.first-header{
+  background-color: #383637 !important;
+  color: white;
+  height: 35px !important;
+}
+
+.title{
+  margin-top: 5px;
+  padding-bottom: 15px !important;
+}
+
+.header2{
+  margin-top: 50px;
+  color: white;
+  background: black;
+}
+
+.watchown{
+  color:#c39c44;
+}
+
+.btn-go-now{
+  border: solid 3px #c39c44;
+  color: white;
+  background-color: black;
+  border-color: #c39c44;
+  
+  border-radius: 20px;
+}
+
+hr { 
+    display: block;
+    margin-top: 50px;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 2px;
+    color: black !important;
+  background: black!important;
+  background-color: black;
+  height: 3px;
+}
+
+.btn-oprah{
+  border: 2px solid white;
+  color: white;
+  height: 30px !important;
+}
+
+.oprah-img{
+  margin: auto;
+  display: block;
+}
+
+.after-oprah{
+  margin: 2.5rem auto;
+}
+
+.newsletter{
+  background-color: black;
+  color: white;
+  margin: 2.5rem auto;
+  padding: 5rem;
+}
+
+.newsletter-form{
+  border-radius: 10px;
+  padding: 0.5rem;
+}
+
+.newsletter-btn{
+  color: white;
+  background-color: grey;
+}
+
+.greyLetters{
+  color: grey
+}
+
+.prefooter{
+  color: white;
+  background: #353535;
+}
+
+a {color: black !important; font-weight: 600; font-size: 14px; !important}
+
+
+.favicons{height: 24px; width: 24px;}
+
+#footer{
+  margin-top: 50px;
+}
+
